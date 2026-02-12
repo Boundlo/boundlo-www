@@ -239,7 +239,7 @@
         "pattern": "^/projects(/editor|(/\\d+(/editor|/fullscreen)?)?)?/?(\\?.*)?$",
         "routeAlias": "/projects/?$",
         "view": "preview/preview",
-        "title": "Boundlo 1 Project",
+        "title": "Boundlo! 1 Experience",
         "dynamicMetaTags": true
     },
     {
@@ -247,7 +247,7 @@
         "pattern": "^/projects/\\d+/embed/?(\\?.*)?$",
         "routeAlias": "/projects/?$",
         "view": "preview/embed",
-        "title": "Boundlo 1 Project",
+        "title": "Boundlo! 1 Experience",
         "dynamicMetaTags": true
     },
     {
